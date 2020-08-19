@@ -1,4 +1,5 @@
 {
+  "homepage": "http://https://waveess.github.io/redux/",
   "name": "mern-shopping",
   "version": "1.0.0",
   "description": "",
@@ -9,7 +10,9 @@
     "start:dev": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
     "install": "cd server && npm i && cd ../client && npm i",
     "seed": "cd server && npm run seed",
-    "heroku-postbuild": "cd client && npm run build"
+    "heroku-postbuild": "cd client && npm run build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "author": "",
   "license": "ISC",
@@ -20,6 +23,7 @@
     "redux": "^4.0.5"
   },
   "devDependencies": {
-    "concurrently": "^5.1.0"
+    "concurrently": "^5.1.0",
+    "gh-pages": "^3.1.0"
   }
 }
