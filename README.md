@@ -36,7 +36,7 @@ THEN I find that the app uses Redux instead of the Context API
 This project is licensed under MIT.
 
 ## 4. URL
-[React-Portfolio](https://waveess.github.io/port/).
+[Redux-Shop](https://redux-shopp.herokuapp.com/).
 
 
 
