@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "//waveess.github.io/redux/static/css/main.db415adc.chunk.css",
+    "main.js": "//waveess.github.io/redux/static/js/main.4d0f9465.chunk.js",
+    "main.js.map": "//waveess.github.io/redux/static/js/main.4d0f9465.chunk.js.map",
+    "runtime-main.js": "//waveess.github.io/redux/static/js/runtime-main.750ed694.js",
+    "runtime-main.js.map": "//waveess.github.io/redux/static/js/runtime-main.750ed694.js.map",
+    "static/js/2.1a90d4a1.chunk.js": "//waveess.github.io/redux/static/js/2.1a90d4a1.chunk.js",
+    "static/js/2.1a90d4a1.chunk.js.map": "//waveess.github.io/redux/static/js/2.1a90d4a1.chunk.js.map",
+    "index.html": "//waveess.github.io/redux/index.html",
+    "precache-manifest.c5ead491a5aaedb39dd1d1d37efa71d6.js": "//waveess.github.io/redux/precache-manifest.c5ead491a5aaedb39dd1d1d37efa71d6.js",
+    "service-worker.js": "//waveess.github.io/redux/service-worker.js",
+    "static/css/main.db415adc.chunk.css.map": "//waveess.github.io/redux/static/css/main.db415adc.chunk.css.map",
+    "static/js/2.1a90d4a1.chunk.js.LICENSE.txt": "//waveess.github.io/redux/static/js/2.1a90d4a1.chunk.js.LICENSE.txt",
+    "static/media/spinner.gif": "//waveess.github.io/redux/static/media/spinner.ab497855.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.750ed694.js",
+    "static/js/2.1a90d4a1.chunk.js",
+    "static/css/main.db415adc.chunk.css",
+    "static/js/main.4d0f9465.chunk.js"
+  ]
+}
