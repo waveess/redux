@@ -36,7 +36,7 @@ THEN I find that the app uses Redux instead of the Context API
 This project is licensed under MIT.
 
 ## 4. URL
-[Redux-Shop](https://waveess.github.io/redux/).
+[Redux-Shop](https://redux-shopp.herokuapp.com/).
 
 <img width="1440" alt="Screen Shot 2020-08-18 at 9 05 18 PM" src="https://user-images.githubusercontent.com/61710672/90591017-dbf79000-e196-11ea-85a7-3798e0150228.png">
 <img width="1440" alt="Screen Shot 2020-08-18 at 9 06 16 PM" src="https://user-images.githubusercontent.com/61710672/90591018-dd28bd00-e196-11ea-9f01-98e75659919f.png">
